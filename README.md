@@ -1,2 +1,2 @@
-# des350
-Amod's Website
+# DES350: Digital Media Design IV
+Amod Mahadik
