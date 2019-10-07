@@ -11,6 +11,6 @@ Instructor: Gene Parcellano
   <li>Assignment 1 <li> 
   <a href=" https://amodmahadik.github.io/Compound-Interest-Calc-Final/">Compound Interest Calculator </a>
   <li> Assignment 2 <li> 
+  <a href=" https://amodmahadik.github.io/GoodDesign/" >10 Principles of Good Design </a>
   <ul>
 
- 
