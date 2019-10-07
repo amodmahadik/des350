@@ -9,6 +9,8 @@ Instructor: Gene Parcellano
   
   <ul> 
   <li>Assignment 1 <li> 
-  <a href=" https://amodmahadik.github.io/Compound-Interest-Calc-Final/">Compound Interest Calculator </a> 
+  <a href=" https://amodmahadik.github.io/Compound-Interest-Calc-Final/">Compound Interest Calculator </a>
   <li> Assignment 2 <li> 
   <ul>
+
+ 
